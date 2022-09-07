@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.contenedor{
+max-width: 1200px;
+margin: 0 auto;
+}
+
+.menu-rounded{
+    width:  90px;
+    height:  90px;
+}
